@@ -10,4 +10,5 @@
 I want to learn Always new knowledge.
 - 📫 How to reach me Email: meyada.saisan@gmail.com
 
-https://github-readme-stats.vercel.app/api?username={username}
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
