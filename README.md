@@ -1,4 +1,6 @@
-![Alt Text](https://media.giphy.com/media/6CMaDx71GXn6o0Z22c/giphy.gif)
+![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/79361511/139535015-37e4b7f6-946a-42c1-bc53-39ddf472a251.gif)
+
+
 
 
 
