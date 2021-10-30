@@ -1,9 +1,9 @@
-![Alt Text](https://media.giphy.com/media/gBHkpU0Xsso7AOyiaZ/giphy.gif)
+![Alt Text](https://media.giphy.com/media/6CMaDx71GXn6o0Z22c/giphy.gif)
 
 
-![Edit with Gitpod](https://www.codewars.com/users/meliy-meyada/badges/large)
 
- 
+
+![Edit with Gitpod](https://www.codewars.com/users/meliy-meyada/badges/large) 
 
 - 👋 Hi, I’m meyada.
 - 👀 I’m interested in Javascript & Python.
