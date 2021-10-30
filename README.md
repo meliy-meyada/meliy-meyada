@@ -1,3 +1,6 @@
+![Alt Text](https://media.giphy.com/media/gBHkpU0Xsso7AOyiaZ/giphy.gif)
+
+
 ![Edit with Gitpod](https://www.codewars.com/users/meliy-meyada/badges/large)
 
  
