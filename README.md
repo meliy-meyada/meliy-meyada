@@ -1,6 +1,3 @@
-
-
-![heell](https://user-images.githubusercontent.com/79361511/139583851-232fb7c3-f1b5-486f-8d16-9f34c5c8681e.gif)
 ![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/79361511/139535015-37e4b7f6-946a-42c1-bc53-39ddf472a251.gif)
 
 
