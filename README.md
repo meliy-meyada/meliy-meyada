@@ -2,7 +2,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/966e2699-dae9-431f-826c-937e8725b955/deploy-status)](https://app.netlify.com/sites/githubfindermeyada/deploys)
 
 
-[![Is <username> available for hire?](http://hireable.me/<username>)](http://hireable.me/p/<username>)
+[![Is <meliy-meyada> available for hire?](http://hireable.me/<meliy-meyada>)](http://hireable.me/p/<meliy-meyada>)
 
 
 - 👋 Hi, I’m meyada saisan.
