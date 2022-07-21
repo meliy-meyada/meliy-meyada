@@ -7,6 +7,6 @@
 
 - 👋 Hi, I’m meyada saisan.
 - 👀 I’m interested in Javascript & Python.
-- 🌱 I'm now committed to developing Project Face & Voice Recognition.
+- 🌱 Now, I'm committed to developing Project Face & Voice Recognition.
 - 📫 How to reach me Email: meyada.saisan@gmail.com
 
