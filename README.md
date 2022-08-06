@@ -5,8 +5,7 @@
 ![Edit with Gitpod](https://www.codewars.com/users/meliy-meyada/badges/large)
 
 
-- 👋 Hi, I’m meyada saisan.
+- 👋 Hi, I’m meyada
 - 👀 I’m interested in Javascript & Python.
 - 🌱 Now, I have a passion for developing Project Face and Voice Recognition.
-- 📫 How to reach me Email: meyada.saisan@gmail.com
 
