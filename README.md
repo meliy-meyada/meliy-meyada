@@ -1,3 +1,3 @@
-- 👋 Hi, I’m meyada
+- 👋 Hi, I’m Meyada
 - 👀 I’m interested in Javascript & Python.
 - 🌱 Now, I am very committed towards my projects Face and Voice Recognition.
